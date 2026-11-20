@@ -1,0 +1,5 @@
+2026-001|Andrea G.Dela Cruz|BSIT IV-C|96.0
+2026-002|Maria Santos|BSIT IV-C|90.0
+2026-003|Juan Reyes|BSIT IV-C|88.0
+2026-004|Alex Garcia|BSIT IV-C|85.0
+2026-005|Jamie Flores|BSIT IV-C|92.0
